@@ -45,14 +45,15 @@ https://project-vendas.netlify.app/
 - [Tools for Mac](https://github.com/devsuperior/sds3/tree/main/_instalacao/mac)
 
 3. Configurar FRONTEND (*FRONTEND Setup*)
-3.1. Instale as dependencias (*Install dependencies*)
+- Instale as dependencias (*Install dependencies*)
 	```bash
 	$ yarn
 	```
-3.2. Rode o react (*Run react*)
+- Rode o react (*Run react*)
 	```bash
 	$ yarn start
 	```
+
 4. Abra o navegador no endereço: (*Open the browser at the address:*)
 http://localhost:3000
 
